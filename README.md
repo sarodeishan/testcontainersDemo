@@ -301,5 +301,5 @@ problem in step by step manner and make the dev's life easier and more confident
 
 At the end, I found testcontainer framework really cool. It does help us on our tests when an external dependency is required for the application. 
 We tried a lot of things here, but there are still many features uncovered on testcontainers(like controlling the lifecycle of container manually).
-The testcontainers are dependent on Docker Daemon, so if one is using Docker engine remotely or as a DinD/DooD. Then working with testcontainers might be tedious but still possible.
+The testcontainers are dependent on Docker Daemon, so if one is using Docker engine remotely or as a DinD/DooD, then working with testcontainers might be tedious but still possible.
 Do checkout if you found this useful https://www.testcontainers.org/
